@@ -1,0 +1,5 @@
+name "day2"
+description "Solutions for day2"
+copyright "Copyright © 2015, Dan 'Wild' Printzell"
+targetPath "../bin"
+authors "Dan Printzell"
